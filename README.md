@@ -11,8 +11,6 @@
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/43163898/154631179-477de4ce-c1a7-45bd-89fb-c064779f9406.gif)
 
 ### Notes
