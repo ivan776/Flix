@@ -14,7 +14,8 @@
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/43163898/154835130-6203aed4-ae4e-4b3c-9dab-a770778fe6e5.gif)
 
 ### Notes
-NONE
+All required components completed. 
+Will be adding bonus features soon.
 # Flix
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
