@@ -11,7 +11,7 @@
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/43163898/154631179-477de4ce-c1a7-45bd-89fb-c064779f9406.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/43163898/154835130-6203aed4-ae4e-4b3c-9dab-a770778fe6e5.gif)
 
 ### Notes
 NONE
